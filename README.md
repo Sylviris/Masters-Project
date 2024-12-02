@@ -116,6 +116,3 @@ The Event Management and Booking System is a robust backend solution for managin
 | `/api/analytics/getAnalytics`     | GET      | Gets analytics for admins (Admins)              |
 | `/api/sales/organizer/sales`      | GET      | Gets sales data for organizer’s events (Organizer) |
 
-## **Future Enhancements**
-
-The system can be expanded and improved with the following
